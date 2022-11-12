@@ -1,0 +1,35 @@
+.profileContainer{
+    /* background-color:'blue'; */
+    padding:10;
+    display:'flex';
+    flex-direction:'row';
+    justify-content:'space-between';
+    border: 10px;
+    background-color: 'red'
+}
+/* .subContainerOne{
+  
+    height: 400;
+    width: 50%;
+} */
+.imgStyle{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%; 
+    opacity: 0.6;
+}
+.profileHeading{
+    padding: 40;
+    padding-bottom: 0px;
+    padding-Top: 0px;
+    font-size: 30px;
+}
+.profileDesc{
+    padding-bottom: 120;
+    /* background-color: red; */
+}
+.profileButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

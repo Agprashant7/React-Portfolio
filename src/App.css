@@ -1,5 +1,9 @@
+@import url(//fonts.googleapis.com/css?family=Lato:300:400);
 .App {
   text-align: center;
+  color:#FDE9DE;
+  font-family: 'Lato', sans-serif;
+  background-color: #e8eef1;
 }
 
 .App-logo {
@@ -7,6 +11,57 @@
   pointer-events: none;
 }
 
+.containerOne{
+  display: flex;
+  flex-direction: column;
+  /* background-color:#FFA3A3; */
+  /* padding:10; */
+  height:'40%';
+  border-bottom: 10px;
+  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+  /* background-color:#C48D3B */
+  /* background: #8E0E00;  /* fallback for old browsers */
+/* background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+/* background: linear-gradient(to top, #1F1C18, #8E0E00); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+
+}
+.waves {
+  position:relative;
+  width: 100%;
+  height:15vh;
+  margin-bottom:-7px; /*Fix for safari gap*/
+  min-height:200px;
+  max-height:350px;
+}
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

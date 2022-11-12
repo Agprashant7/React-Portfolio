@@ -1,0 +1,12 @@
+.navigationConatiner{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+    
+  }
+  /* .imgStyle{
+    width: 50%;
+    height: 200;
+    border-radius: 50%;
+} */

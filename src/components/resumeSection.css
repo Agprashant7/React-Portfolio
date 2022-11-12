@@ -1,0 +1,83 @@
+.resumeSection{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    border: none;
+   
+}
+.resumeBox{
+    display: flex;
+    flex-direction: row;
+    /* position: relative; */
+    /* align-items: center; */
+    /* justify-content:flex-start; */
+    width: 70%;
+    height: 400;
+    border:none;
+    margin-top: 30px;
+    overflow: 'auto';
+ background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
+ border-radius: 7px 7px 7px 7px;
+ -webkit-border-radius: 7px 7px 7px 7px;
+ -moz-border-radius: 7px 7px 7px 7px;
+ box-shadow: -1px 2px 28px -10px rgba(0,0,0,0.8);
+-webkit-box-shadow: -1px 2px 28px -10px rgba(0,0,0,0.8);
+-moz-box-shadow: -1px 2px 28px -10px rgba(0,0,0,0.8);
+
+    
+    background-color: blueviolet; 
+}
+@media (max-width: 500px) {
+    .resumeBox{
+        width: 100%;
+        height: 400;
+        background-color: #020840;
+    }
+  }
+.headingSection{
+    background-color:'#84bcda';
+    width: 30%;
+    height: 100%;
+    margin-right: 10px;
+   border-right-width: 12px;
+ 
+}
+.heading{
+    margin-top: 10px;
+    text-align:left;
+    cursor: pointer;
+   
+    /* border-right-width: 12px; */
+}
+.detailsSection{ 
+    /* background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(97,186,255,1) 0%, rgba(166,239,253,1) 90.1% ); */
+    width: 70%;
+    height: 100%;
+    text-align: left;  
+    outline: none; 
+}
+.skillsContainer{
+    display: flex;
+    margin-left: 30;
+    display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(4, 1fr)
+    /* flex-direction: row; */
+    /* flex:2; */
+    /* justify-content: flex-start; */
+    /* flex-wrap: wrap;
+    flex: 1 0 40%; */
+}
+.levelIndicator{
+    width:'50%';
+   
+    background-color:#fff;
+    border-radius: 8px 8px 8px 8px;
+}
+.filled{
+    border-radius: 8px 8px 8px 8px;
+    width:'70%';
+    height:15px;
+    background: linear-gradient(89deg,#5a7efd 0%, #020840 80%);
+}
