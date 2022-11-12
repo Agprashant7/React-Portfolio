@@ -2,7 +2,7 @@
 import  './App.css';
 import NavBar from './components/navBar';
 import ProfileSection from './components/profileSection';
-import AboutSection from './components/aboutSection';
+
 import ResumeSection from './components/resumeSection';
 import Footer from './components/footer';
 
