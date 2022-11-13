@@ -52,7 +52,7 @@ const renderComponent=['Education','Skills','Work History','Project','Interest']
         <div className="projects">
         <div className="projectHeading">
             <h3>Music Player</h3>
-            <a href="https://agprashant007-player.netlify.app/"target={'_blank'} ><h5>Project link</h5></a>
+            <a href="https://agprashant007-player.netlify.app/"target={'_blank'}rel="noreferrer" ><h5>Project link</h5></a>
            <p>Technology <b>: React JS </b></p>
            <p>Single Page application which plays song with mock api</p>
            <hr></hr>
