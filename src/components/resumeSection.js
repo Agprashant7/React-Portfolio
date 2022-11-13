@@ -20,7 +20,7 @@ const data=['Education','Skills','Work History','Project','Interest']
         </div>
         <div className="historyHeading">
             <h1>Deloitte USI</h1>
-            <h6>Mayv2021 2020- Present</h6>
+            <h6>May2021- Present</h6>
 
             <h3>Software Engineer</h3>
             <ul>
