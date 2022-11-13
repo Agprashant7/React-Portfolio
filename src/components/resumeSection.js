@@ -3,7 +3,6 @@ import React, { useState } from "react";
 // import classes from './resumeSection.css';
 // console.log("Classes",classes)
 const data=['Education','Skills','Work History','Project','Interest']
-const renderComponent=['Education','Skills','Work History','Project','Interest']
  const WorkHistory=()=>{
      return(
         <div className="workHistory" >

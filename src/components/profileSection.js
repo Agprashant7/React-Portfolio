@@ -1,5 +1,5 @@
 import React from "react";
-import Icon from 'react-web-vector-icons';
+// import Icon from 'react-web-vector-icons';
 import './profileSection.css'
 // import avatar from './Logo.png'
 import Button from "./button";
