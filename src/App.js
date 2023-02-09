@@ -1,4 +1,4 @@
-
+import React from 'react';
 import  './App.css';
 import NavBar from './components/navBar';
 import ProfileSection from './components/profileSection';
@@ -6,7 +6,10 @@ import ProfileSection from './components/profileSection';
 import ResumeSection from './components/resumeSection';
 import Footer from './components/footer';
 
+
+
 function App() {
+
   return (
     <div className="App">
       <div className='containerOne'>
