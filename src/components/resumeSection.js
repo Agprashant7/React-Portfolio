@@ -11,7 +11,6 @@ const ResumeSection =()=>{
     const contextValue=useContext(Consumer)
  const WorkHistory=()=>{
 return(
-
 <>
     
        { contextValue?.workHistory?.map((details,i)=>{
