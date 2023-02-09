@@ -1,0 +1,75 @@
+{
+    "name":"Hello I'm Prashant",
+    "typicalSkills":["UI Developer", 1500, "MERN Developer", 1500,"App Developer", 1500,"JavaScript Enthaustic", 1500],
+    "profileDescription":"Software Engineer having experience in building Web applications and Mobile applications over the MERN stack and React Native ",
+    "resumeDownloadBtn":"Download Resume",
+    "callBtn":"Call Me",
+    "switchData":["Education","Skills","Work History","Project","Interest"],
+    "mobileNo":"8050699240",
+    "resumeLink":"https://drive.google.com/file/d/1ZUA97EPGj_mG8SR10dGJt8VXM6H15jin/view",
+    "educationDetails":[{"enggName":"SKSVMACET(VTU)","place":"Lakshmeswar","duration":"2016-2020","course":"Bachelors Of Engineering, Computer Science & Engineering"}],
+    "workHistory":[{
+        "company":"Welectric",
+        "duration":"<p>Oct 2020- Jan2021(Intern)<br></br> Feb2021-May2021</p>",
+        "designation":"Software Engineer",
+        "descriptionDetails":["Built a vehicle management system from scratch for the Internal team","Platform for leasing electric vehicles with more generalization of product which can used for other leasing products with features like maintenance plan and auto schedule",
+    "Implemented role-based authentication and user profile feature","Developed assets dashboard for clients"]
+    },
+    {
+        "company":"Deloitte",
+        "duration":"May 2021-Jan 2023",
+        "designation":"Analyst/Frontend Developer",
+        "descriptionDetails":["Developing web and mobile app for telecommunication client which allows user to login, activating and managing account","Contributing as a key member of development team responsible for developing and delivering stories/enhancements for web and mobile application on tech stack MERN and React Native",
+    "Developing reusable UI components for web and mobile app","Doing POC’s and analyzing the best solution for application ","Implemented features like biometrics login, App ratings, Deep linking"]
+    },
+    {
+        "company":"Encora Inc",
+        "duration":"Jan 2023 - Present",
+        "designation":"Software Developer",
+        "descriptionDetails":[]
+    }
+],
+"projectDetails":[{"name":"Music Player","link":"https://agprashant007-player.netlify.app/","displayName":"Project link","technology":"Technology","languages":": React JS","description":"Single Page application which plays song with mock api"},
+{"name":"College Website","link":"http://agprashant7.ueuo.com/clgg/index.html","displayName":"Project link","technology":"technology","languages":": HTML, CSS, Javascript,BootStrap","description":"College website for techno-cultural event"}
+],
+"skillsProgress":[{
+    "skillName":"HTML",
+    "value":100
+},
+{
+    "skillName":"CSS",
+    "value":100
+},
+{
+    "skillName":"JavaScript",
+    "value":88
+},
+{
+    "skillName":"React JS",
+    "value":85
+},
+{
+    "skillName":"Next JS",
+    "value":70
+},
+{
+    "skillName":"React Native",
+    "value":70
+},
+{
+    "skillName":"StoryBook JS",
+    "value":70
+},
+{
+    "skillName":"TypeScript",
+    "value":60
+},
+{
+    "skillName":"Node JS",
+    "value":50
+}
+],
+"interest":["Javascript Libraries","App Development","FrontEnd Development","Mern Stack Develoment","Block Chain"]
+
+
+}

@@ -4,6 +4,7 @@
     /* justify-content: center; */
     align-items: center;
     border: none;
+    overflow: auto;
    
 }
 .resumeBox{
@@ -27,6 +28,10 @@
 
     
     background-color: blueviolet; 
+}
+.education{
+    overflow: auto;
+    text-overflow: unset;
 }
 @media (max-width: 500px) {
     .resumeBox{
