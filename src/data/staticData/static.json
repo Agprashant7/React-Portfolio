@@ -63,7 +63,12 @@
 {
     "skillName":"TypeScript",
     "value":60
+},                  
+{
+    "skillName":"Angular JS",
+    "value":50
 },
+                  
 {
     "skillName":"Node JS",
     "value":50
