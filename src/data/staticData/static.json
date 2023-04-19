@@ -29,7 +29,7 @@
         "descriptionDetails":[]
     }
 ],
-"projectDetails":[{"name":"Music Player","link":"https://agprashant007-player.netlify.app/","displayName":"Project link","technology":"Technology","languages":": React JS","description":"Single Page application which plays song with mock api"},
+"projectDetails":[{"name":"Music Player","link":"https://agprashant007-player.netlify.app/","displayName":"Project link","technology":"Technology","languages":": React JS","description":"Single Page application which plays song with mock api"},{name":"Task Manager","link":"https://task-management-ng.netlify.app/","displayName":"Project link","technology":"Technology","languages":": Angular JS","description":"Single Page application which helps to manage tasks and covers all basic concepts of angular along with integration of mock api"},
 {"name":"College Website","link":"http://agprashant7.ueuo.com/clgg/index.html","displayName":"Project link","technology":"technology","languages":": HTML, CSS, Javascript,BootStrap","description":"College website for techno-cultural event"}
 ],
 "skillsProgress":[{
