@@ -6,7 +6,7 @@
     "callBtn":"Call Me",
     "switchData":["Education","Skills","Work History","Project","Interest"],
     "mobileNo":"8050699240",
-    "resumeLink":"https://drive.google.com/file/d/1LQhXt5lQSM5AM20ao9vrFNTVZtqBaWhS/view?usp=sharing",
+    "resumeLink":"https://drive.google.com/file/d/1LQhXt5lQSM5AM20ao9vrFNTVZtqBaWhS/view",
     "educationDetails":[{"enggName":"SKSVMACET(VTU)","place":"Lakshmeswar","duration":"2016-2020","course":"Bachelors Of Engineering, Computer Science & Engineering"}],
     "workHistory":[{
         "company":"Welectric",
