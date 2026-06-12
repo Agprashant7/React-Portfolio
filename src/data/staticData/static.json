@@ -6,7 +6,7 @@
     "callBtn":"Call Me",
     "switchData":["Education","Skills","Work History","Project","Interest"],
     "mobileNo":"8050699240",
-    "resumeLink":"https://drive.google.com/file/d/1LQhXt5lQSM5AM20ao9vrFNTVZtqBaWhS/view",
+    "resumeLink":"https://drive.google.com/file/d/1eYFeLPWXF_OvXXqv87nx2PwF-vtVb8BA/view?usp=drivesdk",
     "educationDetails":[{"enggName":"SKSVMACET(VTU)","place":"Lakshmeswar","duration":"2016-2020","course":"Bachelors Of Engineering, Computer Science & Engineering"}],
     "workHistory":[{
         "company":"Welectric",
@@ -41,11 +41,11 @@
 },
 {
     "skillName":"JavaScript",
-    "value":90
+    "value":92
 },
 {
     "skillName":"React JS",
-    "value":88
+    "value":90
 },
 {
     "skillName":"Next JS",
@@ -53,11 +53,11 @@
 },
 {
     "skillName":"React Native",
-    "value":70
+    "value":85
 },
 {
     "skillName":"StoryBook JS",
-    "value":70
+    "value":60
 },
 {
     "skillName":"TypeScript",
@@ -70,7 +70,7 @@
                   
 {
     "skillName":"Node JS",
-    "value":50
+    "value":60
 }
 ],
 "interest":["Javascript Libraries","App Development","FrontEnd Development","Mern Stack Develoment","Block Chain"]
